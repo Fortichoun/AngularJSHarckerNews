@@ -1,0 +1,10 @@
+{
+  "name": "covargo-angularjs",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "1.6.4",
+    "angular-route": "^1.6.4",
+    "angular-ui-router": "ui-router#^1.0.4",
+    "font-awesome": "^4.7.0"
+  }
+}
